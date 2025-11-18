@@ -2,10 +2,10 @@ import React from "react";
 
 function Stats() {
   const stats = [
-    { label: "Projects delivered", value: "3,048+" },
-    { label: "Active clients", value: "24+" },
+    { label: "Projects", value: "3,048+" },
+    { label: "Clients", value: "24+" },
     { label: "Avg. NPS", value: "92" },
-    { label: "Years in craft", value: "7+" },
+    { label: "Years", value: "7+" },
   ];
 
   return (
